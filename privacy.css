@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #2A0001;
+}
+.header{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px 1px rgb(255, 255, 255);
+}
+.container5 h5{
+    align-items: center;
+}
+.container5 ul{
+    align-items: center;
+}
+.text1{
+    align-items: justify;
+    text-align: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
